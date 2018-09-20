@@ -1,0 +1,31 @@
+_repo: Sevastopoli_52774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoy, Lev N.
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    - Tolstoi, Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2016-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52774'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Sevastopol (Ukraine) -- History -- Siege, 1854-1855 -- Fiction'
+- GITenberg
+title: Sevastopoli
+url: http://www.gutenberg.org/ebooks/52774
